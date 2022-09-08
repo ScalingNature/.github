@@ -7,7 +7,7 @@
 - Tätä **GitHub organisaatiota**
 - Etsimme jäseniä ja kumppaneita mukaan kehittämään
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us: saltiola@protonmail.com</h3>
 <p align="left">
 </p>
 
