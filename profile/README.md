@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamppugit&label=Profile%20views&color=0e75b6&style=flat" alt="hamppugit" /> </p>
 
-- 🔭 Tällä hetkellä työstämme **vastinetta valtion lakiehdotukseen**
+- Tällä hetkellä työstämme **vastinetta valtion lakiehdotukseen**
+- Tätä **GitHub organisaatiota**
+- Etsimme jäseniä ja kumppaneita mukaan kehittämään
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
